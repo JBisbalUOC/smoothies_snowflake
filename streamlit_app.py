@@ -1,5 +1,5 @@
 # Import python packages
-import snowflake.connector
+pip install snowflake-connector-python==2.8.3
 import streamlit as st
 from snowflake.snowpark.functions import col
 
