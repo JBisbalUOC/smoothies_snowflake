@@ -5,7 +5,3 @@ streamlit
 name: app_requirements
 channels:
   - snowflake
-dependencies:
-  - python=
-  - snowflake-snowpark-python=
-  - streamlit=
