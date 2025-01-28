@@ -9,3 +9,4 @@ dependencies:
   - python=3.8.*
   - snowflake-snowpark-python=
   - streamlit=
+  - snowflake-connector-python==2.8.3
