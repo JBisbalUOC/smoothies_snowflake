@@ -1,5 +1,6 @@
 # requirements
 snowflake-snowpark-python
+snowflake-snowpark-functions
 streamlit
 
 name: app_environment
