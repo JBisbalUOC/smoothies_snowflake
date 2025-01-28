@@ -6,6 +6,6 @@ name: app_requirements
 channels:
   - snowflake
 dependencies:
-  - python==3.8.*
+  - python=="3.8.*"
   - snowflake-snowpark-python==
   - streamlit==
